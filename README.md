@@ -1,6 +1,5 @@
-# flbird_ridabenbouziane
+# Using Deep Q-Network To Play Flappy Bird
 
-## Titre
 <img src="IMG/FB.png" alt="" style="text-align: center;"/>
 
 ## Overview
